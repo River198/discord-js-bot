@@ -16,7 +16,7 @@
 * [Git](https://git-scm.com/downloads)
 * [MongoDB](https://www.mongodb.com)
 
-![](https://imgur.com/GUTpd5g)
+![Setup](https://imgur.com/GUTpd5g)
 
 ### Getting Started
 
@@ -57,7 +57,7 @@ MongoDB
 
 If you need any additional help, make sure to read our guides [here](docs/additional/installation.md)
 
-![](https://imgur.com/YdjBz2q)
+![Commands & Features](https://imgur.com/YdjBz2q)
 ### Features
 
 Strange is a feature-rich discord bot with new features constantly being updated! Current features include
@@ -89,7 +89,7 @@ Strange has an extensive list of all useful commands (**more than 100**) which a
 
 A complete list of commands can be found in the [documentation](docs/commands/)
 
-![](https://imgur.com/CUFT3ir)
+![Contributing](https://imgur.com/CUFT3ir)
 ### 🤝 Contributing
 
 * Special thanks to [@Androzz](https://github.com/Androz2091/AtlantaBot) for the [dashboard](https://github.com/Androz2091/AtlantaBot) and his other cool discord bot projects
